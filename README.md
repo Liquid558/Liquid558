@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on Python  web app projects using Flask.
 - 💞️ I’m looking to collaborate on Data science Project.
 - I just completed a Python Basic/Python for Data science course on coursera.
+- completed the certified entry-level Python programmer course.
 - 📫 How to reach me jliquid55@gmail.com/ +2348109567462
 
 <!---
